@@ -10,3 +10,17 @@ for i in ls:
     count = dt[i]+1
     dt.update({i:count})    
 print(dt)
+
+######## Another logic #######
+ls = ['a','a','b','c','c']
+
+dt = {}
+
+for i in ls:
+  if i in dt.keys():
+    count=dt[i]+1
+    dt.update({i:count})
+  else:
+    dt.update({i:1})
+    
+print(dt)

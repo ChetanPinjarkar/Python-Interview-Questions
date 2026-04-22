@@ -4,3 +4,11 @@ At Jio Platforms, I moved into a more product-engineering role, where I built an
 Currently, at Sandhata Technologies as an SRE, I'm working on two key projects — one on Azure, where I'm building event-driven microservices using Azure Functions, Service Bus, and Logic Apps, and another on AWS, where I'm provisioning and managing scalable infrastructure using Terraform across multi-environment setups.
 My core strengths are Python, Terraform, AWS, and building reliable, automated cloud solutions. I'm also comfortable working with Docker, Kubernetes, and tools like GitHub Copilot for faster development.
 I'm now looking for a role where I can contribute my cloud and Python skills to a strong engineering team and continue growing in that space.
+
+
+My name is Chetan. Thank you for giving me this opportunity to introduce myself.
+I have approximately 6 years of experience in Cloud Engineering, DevOps, and Python-based automation. My work has primarily focused on building reliable, scalable infrastructure and automating cloud workflows across AWS and Azure.
+In my current role at Sandhata Technologies, I work as a Site Reliability Engineer. I am responsible for designing event-driven architectures on Azure using Azure Functions and Service Bus, and managing AWS infrastructure using Terraform — following Infrastructure as Code best practices.
+Before this, at Jio Platforms, I contributed to building an internal automation platform that reduced manual effort by 40%, and I also developed REST APIs using FastAPI and worked extensively with Kubernetes clusters.
+I am comfortable working with Python, Terraform, Docker, Kubernetes, and CI/CD pipelines. I value clean code, proper documentation, and structured problem-solving — which I understand are qualities your team holds in high regard as well.
+I am very much looking forward to collaborating with the team and contributing meaningfully to your projects.
